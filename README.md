@@ -1,0 +1,2 @@
+# install
+Pós instalação Linux
